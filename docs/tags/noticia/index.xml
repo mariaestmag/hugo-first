@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>noticia on Descubre Almeria</title>
+    <link>https://mariaestmag.github.io/hugo-first/tags/noticia/</link>
+    <description>Recent content in noticia on Descubre Almeria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 28 Sep 2021 10:09:41 +0200</lastBuildDate><atom:link href="https://mariaestmag.github.io/hugo-first/tags/noticia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘Sabores Almería’ promocionará a los chefs de la gastronomía almeriense en el Salón Gourmets</title>
+      <link>https://mariaestmag.github.io/hugo-first/blog/post-3/</link>
+      <pubDate>Tue, 28 Sep 2021 10:09:41 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/blog/post-3/</guid>
+      <description>Salón Gourmets, la Feria Internacional de Alimentación y Bebidas de Calidad más grande de Europa y uno de los referentes más prestigiosos del mundo como escaparate de las tendencias de alta gama para los profesionales de la gastronomía.  Se celebrará del 18 al 21 de octubre en el recinto IFEMA de Madrid con el protagonismo de los productos de ‘Sabores Almería’ como provincia invitada.
+Este evento sitúa al sector agroalimentario almeriense en la primera plana del exigente panorama internacional de la gastronomía profesional.</description>
+    </item>
+    
+    <item>
+      <title>Mojácar celebra el día mundial del turismo</title>
+      <link>https://mariaestmag.github.io/hugo-first/blog/post-2/</link>
+      <pubDate>Mon, 27 Sep 2021 10:09:38 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/blog/post-2/</guid>
+      <description>Mojácar ha celebrado el Día Mundial del Turismo con una visita guiada y gratuita al casco antiguo de la ciudad y a sus puntos más emblemáticos.  Esta iniciativa ha sido organizada por la Oficina Municipal de Turismo de la localidad que todos los años celebra este simbólico día con alguna actividad destinada a los visitantes de Mojácar que quieran sumarse a ella.
+Acompañados por una técnico del Área de Turismo del Ayuntamiento de Mojácar, el grupo de turistas pudieron disfrutar de las explicaciones que, en torno al municipio y su historia, fue dando forma y sentido a los enclaves que a lo largo de la historia han ido configurando lo que es hoy Mojacar.</description>
+    </item>
+    
+  </channel>
+</rss>

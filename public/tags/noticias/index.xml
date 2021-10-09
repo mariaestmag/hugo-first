@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>noticias on Descubre Almeria</title>
+    <link>https://mariaestmag.github.io/hugo-first/tags/noticias/</link>
+    <description>Recent content in noticias on Descubre Almeria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 26 Sep 2021 10:08:41 +0200</lastBuildDate><atom:link href="https://mariaestmag.github.io/hugo-first/tags/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASAJA advierte que la campaña comienza con precios un 45% por debajo de la anterior</title>
+      <link>https://mariaestmag.github.io/hugo-first/blog/post-1/</link>
+      <pubDate>Sun, 26 Sep 2021 10:08:41 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/blog/post-1/</guid>
+      <description>Pepino con un precio medio de apenas 15 céntimos de media en la última semana lidera este ranking a la baja junto a calabacín.  La campaña hortícola en la provincia ha empezado con precios un 45% inferiores a los que se registraban en la pasada campaña, afectando esta situación a todos los productos con la única excepción del pimiento tipo Lamuyo. Según datos de los servicios técnicos de ASAJA la situación más complicada la atraviesa el pepino tipo Almería, que registra un precio un 81% inferior al de la pasada campaña.</description>
+    </item>
+    
+  </channel>
+</rss>

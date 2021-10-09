@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Descubre Almeria</title>
+    <link>https://mariaestmag.github.io/hugo-first/categories/</link>
+    <description>Recent content in Categories on Descubre Almeria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 04 Oct 2021 10:51:47 +0200</lastBuildDate><atom:link href="https://mariaestmag.github.io/hugo-first/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>almerienses</title>
+      <link>https://mariaestmag.github.io/hugo-first/categories/almerienses/</link>
+      <pubDate>Mon, 04 Oct 2021 10:51:47 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/categories/almerienses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>noticias</title>
+      <link>https://mariaestmag.github.io/hugo-first/categories/noticias/</link>
+      <pubDate>Tue, 28 Sep 2021 10:09:41 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/categories/noticias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>search</title>
+      <link>https://mariaestmag.github.io/hugo-first/categories/search/</link>
+      <pubDate>Mon, 27 Sep 2021 10:50:34 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/categories/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contacto</title>
+      <link>https://mariaestmag.github.io/hugo-first/categories/contacto/</link>
+      <pubDate>Mon, 27 Sep 2021 10:50:16 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/categories/contacto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gastronomia</title>
+      <link>https://mariaestmag.github.io/hugo-first/categories/gastronomia/</link>
+      <pubDate>Mon, 27 Sep 2021 10:49:33 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/categories/gastronomia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>historia</title>
+      <link>https://mariaestmag.github.io/hugo-first/categories/historia/</link>
+      <pubDate>Mon, 27 Sep 2021 10:48:47 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/categories/historia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

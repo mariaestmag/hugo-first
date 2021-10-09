@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gastronomia on Descubre Almeria</title>
+    <link>https://mariaestmag.github.io/hugo-first/tags/gastronomia/</link>
+    <description>Recent content in gastronomia on Descubre Almeria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 28 Sep 2021 10:09:41 +0200</lastBuildDate><atom:link href="https://mariaestmag.github.io/hugo-first/tags/gastronomia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘Sabores Almería’ promocionará a los chefs de la gastronomía almeriense en el Salón Gourmets</title>
+      <link>https://mariaestmag.github.io/hugo-first/blog/post-3/</link>
+      <pubDate>Tue, 28 Sep 2021 10:09:41 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/blog/post-3/</guid>
+      <description>Salón Gourmets, la Feria Internacional de Alimentación y Bebidas de Calidad más grande de Europa y uno de los referentes más prestigiosos del mundo como escaparate de las tendencias de alta gama para los profesionales de la gastronomía.  Se celebrará del 18 al 21 de octubre en el recinto IFEMA de Madrid con el protagonismo de los productos de ‘Sabores Almería’ como provincia invitada.
+Este evento sitúa al sector agroalimentario almeriense en la primera plana del exigente panorama internacional de la gastronomía profesional.</description>
+    </item>
+    
+    <item>
+      <title>Gastronomia</title>
+      <link>https://mariaestmag.github.io/hugo-first/gastronomia/</link>
+      <pubDate>Mon, 27 Sep 2021 10:49:33 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/gastronomia/</guid>
+      <description>1. Nuestra tierra
+Muy cerca de la Plaza Vieja, en el centro histórico de Almería se encuentra esta taberna, con aires modernos e industriales, y una comida exquisita. Además de las tapas que vienen incluidas con la caña de cerveza, hay otras tapas más gourmet o raciones para compartir.
+Mención especial a los saquitos de morcilla con confitura de tomate y el bacalao frito con mayonesa de pil pil.</description>
+    </item>
+    
+  </channel>
+</rss>

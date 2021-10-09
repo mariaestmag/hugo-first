@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ilustres on Descubre Almeria</title>
+    <link>https://mariaestmag.github.io/hugo-first/tags/ilustres/</link>
+    <description>Recent content in ilustres on Descubre Almeria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 04 Oct 2021 10:51:47 +0200</lastBuildDate><atom:link href="https://mariaestmag.github.io/hugo-first/tags/ilustres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Almerienses Ilustres</title>
+      <link>https://mariaestmag.github.io/hugo-first/almerienses/</link>
+      <pubDate>Mon, 04 Oct 2021 10:51:47 +0200</pubDate>
+      
+      <guid>https://mariaestmag.github.io/hugo-first/almerienses/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
