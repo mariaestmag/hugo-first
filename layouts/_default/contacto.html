@@ -1,0 +1,33 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div>
+        <h2>{{ .Title }}</h2>
+        <h5>{{ .Description }}</h5>
+        {{ partial "tags" . }}
+    </div>
+
+    <div align="start" class="content">
+        {{ .Content }}
+        <center>
+            <form style="font-family:'Otomanopee One'; font-style:unset; align-content: center;"
+                action="https://formspree.io/f/mjvjljwd" method="POST">
+                <label display: inline-block;>
+                    Tu email:
+                    <input type="email" name="_replyto">
+                </label>
+                <br>
+                <label display: inline-block;>
+                    Tu mensaje:
+                    <textarea name="message"></textarea>
+                </label>
+                <br>
+                <button type="submit">Enviar</button>
+            </form>
+        </center>
+    </div>
+
+</main>
+
+{{ partial "footer" . }}

@@ -1,0 +1,19 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div>
+        <h2>{{ .Title }}</h2>
+        <h5>{{ .Description }}</h5>
+        {{ partial "tags" . }}
+    </div>
+
+    <div align="start" class="content">
+        {{ .Content }}
+        <iframe src="https://es.wikipedia.org/wiki/Historia_de_Almer%C3%ADa" allow="fullscreen" width="100%"
+            height="100%"></iframe>
+    </div>
+
+</main>
+
+{{ partial "footer" . }}
