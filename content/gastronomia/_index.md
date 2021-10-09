@@ -17,7 +17,7 @@ draft: false
 
   > Calle Jovellanos, 16, 04003, Almería
 
-  ![Tapa]((/tierra.jpg)
+  ![Tapa](/tierra.jpg)
 
   ---
   **2. Taberna _El Andaluz_**
